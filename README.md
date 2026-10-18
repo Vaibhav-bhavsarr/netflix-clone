@@ -29,7 +29,7 @@
 Run these commands in your terminal to clone and enter the repository:
 
 ```bash
-git clone [https://github.com/Vaibhav-bhavsarr/netflix-clone.git](https://github.com/Vaibhav-bhavsarr/netflix-clone.git)
+git clone https://github.com/Vaibhav-bhavsarr/netflix-clone.git
 cd netflix-clone
 ```
 
@@ -58,7 +58,7 @@ netflix-clone/
 ## 🚀 How to Run Locally
 1. **Clone the repository and navigate to the project directory:**
    ```bash
-   git clone [https://github.com/Vaibhav-bhavsarr/netflix-clone.git](https://github.com/Vaibhav-bhavsarr/netflix-clone.git)
+   git clone https://github.com/Vaibhav-bhavsarr/netflix-clone.git
    cd netflix-clone
    ```
 2. **Open the project:**
