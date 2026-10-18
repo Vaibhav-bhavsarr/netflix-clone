@@ -25,6 +25,16 @@
 
 ---
 
+## ⚡ Quick Clone / Git Import
+Run these commands in your terminal to clone and enter the repository:
+
+```bash
+git clone [https://github.com/Vaibhav-bhavsarr/netflix-clone.git](https://github.com/Vaibhav-bhavsarr/netflix-clone.git)
+cd netflix-clone
+```
+
+---
+
 ## ✨ Features
 * **Hero Section:** Custom background overlay with email membership CTA and navigation bar.
 * **Embedded Video Previews:** Auto-playing, looping video overlays positioned inside TV and device frames.
@@ -41,8 +51,15 @@ netflix-clone/
 ├── style.css        # Styling, Flexbox/Grid layouts, and Media Queries
 ├── README.md        # Project documentation
 └── assets/          # Local images (logo.png, bg.jpg)
-
-```bash
-git clone https://github.com/Vaibhav-bhavsarr/netflix-clone.git
-cd netflix-clone
 ```
+
+---
+
+## 🚀 How to Run Locally
+1. **Clone the repository and navigate to the project directory:**
+   ```bash
+   git clone [https://github.com/Vaibhav-bhavsarr/netflix-clone.git](https://github.com/Vaibhav-bhavsarr/netflix-clone.git)
+   cd netflix-clone
+   ```
+2. **Open the project:**
+   Double-click `index.html` to launch it in your default browser, or run it with the **Live Server** extension in VS Code.
