@@ -41,3 +41,8 @@ netflix-clone/
 ├── style.css        # Styling, Flexbox/Grid layouts, and Media Queries
 ├── README.md        # Project documentation
 └── assets/          # Local images (logo.png, bg.jpg)
+
+```bash
+git clone https://github.com/Vaibhav-bhavsarr/netflix-clone.git
+cd netflix-clone
+```
